@@ -1,1 +1,2 @@
-Username:username
+Username=uzdiiilekk
+Password=321123
